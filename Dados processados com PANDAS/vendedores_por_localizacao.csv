@@ -1,0 +1,637 @@
+seller_city,seller_state,total_vendedores
+04482255,RJ,1
+abadia de goias,GO,1
+afonso claudio,ES,1
+aguas claras df,SP,1
+alambari,SP,1
+alfenas,MG,2
+almirante tamandare,PR,1
+alvares machado,SP,1
+alvorada,RS,1
+americana,SP,10
+amparo,SP,5
+ampere,PR,1
+anapolis,GO,3
+andira-pr,PR,1
+andradas,MG,1
+andradas,SP,1
+angra dos reis,RJ,1
+angra dos reis rj,RJ,1
+ao bernardo do campo,SP,1
+aparecida,SP,1
+aparecida de goiania,GO,1
+aperibe,RJ,1
+apucarana,PR,8
+aracaju,SE,1
+aracatuba,SP,4
+araguari,MG,4
+arapongas,PR,10
+araquari,SC,1
+ararangua,SC,1
+araraquara,SP,11
+araras,SP,3
+araucaria,PR,2
+araxa,MG,2
+arinos,MG,1
+armacao dos buzios,RJ,2
+arraial d'ajuda (porto seguro),BA,1
+artur nogueira,SP,3
+aruja,SP,3
+arvorezinha,RS,1
+assis,SP,8
+atibaia,SP,11
+auriflama,SP,1
+auriflama/sp,SP,1
+avare,SP,1
+bady bassitt,SP,2
+baependi,MG,2
+bage,RS,1
+bahia,BA,1
+balenario camboriu,SC,1
+balneario camboriu,SC,3
+bandeirantes,PR,1
+barbacena,MG,1
+barbacena/ minas gerais,MG,1
+bariri,SP,2
+barra mansa,RJ,4
+barra velha,SC,1
+barretos,SP,4
+barrinha,SP,1
+barro alto,BA,1
+barueri,SP,13
+batatais,SP,3
+bauru,SP,14
+bebedouro,SP,1
+belford roxo,RJ,2
+belo horizont,MG,1
+belo horizonte,MG,66
+belo horizonte,SP,2
+bento goncalves,RS,3
+bertioga,SP,1
+betim,MG,5
+birigui,SP,10
+blumenau,SC,20
+blumenau,SP,1
+bocaiuva do sul,PR,1
+bofete,SP,1
+boituva,SP,3
+bom jardim,RJ,1
+bom jesus dos perdoes,SP,1
+bombinhas,SC,1
+bonfinopolis de minas,MG,1
+borda da mata,MG,4
+botucatu,SP,4
+braco do norte,SC,1
+braganca paulista,SP,5
+brasilia,DF,28
+brasilia df,DF,1
+brejao,PE,1
+brotas,SP,1
+brusque,SC,10
+buritama,SP,1
+cacador,SC,1
+cachoeira do sul,RS,1
+cachoeirinha,RS,3
+cachoeiro de itapemirim,ES,4
+cafelandia,SP,2
+caieiras,SP,1
+cajamar,SP,2
+california,PR,1
+camanducaia,MG,1
+cambe,PR,3
+camboriu,SC,1
+campanha,MG,1
+campina das missoes,RS,1
+campina grande,PB,1
+campinas,SP,41
+campo bom,RS,2
+campo do meio,MG,1
+campo grande,MS,4
+campo largo,PR,3
+campo limpo paulista,SP,2
+campo magro,PR,1
+campo mourao,PR,1
+campos dos goytacazes,RJ,1
+campos novos,SC,1
+cananeia,SP,1
+canoas,RS,9
+canoinhas,SC,2
+capivari,SP,4
+carapicuiba,SP,10
+carapicuiba / sao paulo,SP,1
+caratinga,MG,1
+carazinho,RS,3
+cariacica,ES,2
+cariacica / es,ES,1
+carmo da mata,MG,1
+carmo do cajuru,MG,1
+caruaru,PE,2
+cascavael,PR,1
+cascavel,PR,14
+castro,PR,2
+castro pires,MG,1
+cataguases,MG,1
+catanduva,SP,10
+caucaia,CE,1
+caxias do sul,RS,16
+caxias do sul,SP,2
+centro,MG,1
+cerqueira cesar,SP,1
+chapeco,SC,2
+chapeco,SP,1
+cianorte,PR,1
+claudio,MG,6
+clementina,SP,1
+colatina,ES,1
+colombo,PR,8
+colorado,PR,1
+conchal,SP,2
+concordia,SC,1
+condor,RS,1
+congonhal,MG,1
+congonhas,MG,1
+conselheiro lafaiete,MG,3
+contagem,MG,12
+cordeiropolis,SP,1
+cordilheira alta,SC,1
+cornelio procopio,PR,1
+coronel fabriciano,MG,2
+cosmopolis,SP,2
+cotia,SP,10
+coxim,MS,1
+cravinhos,SP,1
+criciuma,SC,4
+cruzeiro,SP,1
+cuiaba,MT,2
+curitiba,PR,124
+curitiba,SP,3
+curitibanos,SC,2
+descalvado,SP,1
+diadema,SP,9
+divinopolis,MG,8
+divisa nova,MG,1
+dois corregos,SP,2
+domingos martins,ES,1
+dores de campos,MG,2
+dracena,SP,1
+duque de caxias,RJ,3
+echapora,SP,2
+embu das artes,SP,2
+embu guacu,SP,1
+engenheiro coelho,SP,1
+entre rios do oeste,PR,1
+erechim,RS,1
+estancia velha,RS,2
+eunapolis,BA,1
+eusebio,CE,1
+extrema,MG,1
+farroupilha,RS,2
+fazenda rio grande,PR,6
+feira de santana,BA,1
+fernando prestes,SP,1
+fernandopolis,SP,4
+ferraz de  vasconcelos,SP,1
+ferraz de vasconcelos,SP,3
+floranopolis,SC,1
+flores da cunha,RS,2
+floresta,PR,1
+florianopolis,SC,17
+florianopolis,SP,1
+formiga,MG,4
+formosa,GO,2
+formosa do oeste,PR,1
+fortaleza,CE,7
+foz do iguacu,PR,5
+franca,SP,20
+francisco beltrao,PR,4
+francisco morato,SP,1
+franco da rocha,SP,2
+fronteira,MG,1
+gama,DF,1
+garca,SP,4
+garopaba,SC,2
+garulhos,SP,1
+garuva,SC,1
+gaspar,SC,2
+goiania,GO,23
+goioere,SP,1
+governador valadares,MG,1
+guaimbe,SP,1
+guaira,PR,1
+guaira,SP,1
+guanambi,BA,1
+guanhaes,MG,1
+guara,SP,1
+guarapuava,PR,1
+guaratingueta,SP,1
+guaratuba,PR,3
+guariba,SP,1
+guaruja,SP,6
+guarulhos,SP,50
+guiricema,MG,1
+holambra,SP,1
+horizontina,RS,1
+hortolandia,SP,2
+ibia,MG,1
+ibirite,MG,1
+ibitinga,SP,49
+icara,SC,1
+igaracu do tiete,SP,2
+igrejinha,RS,1
+ilheus,BA,1
+ilicinea,MG,1
+imbe,RS,1
+imbituba,SC,2
+imbituva,PR,1
+imigrante,RS,1
+indaial,SC,2
+indaiatuba,SP,8
+ipatinga,MG,2
+ipaussu,SP,1
+ipe,RS,1
+ipira,BA,1
+ipira,SP,1
+ipua,SP,1
+irati,PR,1
+irece,BA,1
+itabira,MG,1
+itaborai,RJ,1
+itaipulandia,PR,2
+itajai,SC,8
+itajai,SP,2
+itajobi,SP,2
+itapecerica da serra,SP,4
+itapema,SC,1
+itapetininga,SP,2
+itapeva,SP,1
+itapevi,SP,4
+itaporanga,SP,1
+itapui,SP,1
+itaquaquecetuba,SP,9
+itatiba,SP,4
+itau de minas,MG,1
+itauna,MG,2
+itirapina,SP,1
+itu,SP,4
+ivoti,RS,1
+jaboticabal,SP,2
+jacarei,SP,7
+jacarei / sao paulo,SP,1
+jaci,SP,4
+jaciara,MT,1
+jacutinga,MG,2
+jacutinga,RS,1
+jaguariuna,SP,4
+jaguaruna,SC,2
+jales,SP,1
+jambeiro,SP,1
+janauba,MG,1
+japira,PR,1
+jaragua,GO,1
+jaragua do sul,SC,9
+jarinu,SP,1
+jau,SP,4
+ji parana,RO,1
+joao monlevade,MG,1
+joao pessoa,PB,2
+joao pinheiro,MG,1
+joinville,SC,22
+juiz de fora,MG,9
+juiz de fora,SP,1
+jundiai,SP,14
+jussara,PR,1
+juzeiro do norte,CE,1
+lages,SC,2
+lages - sc,SC,1
+lagoa da prata,MG,2
+lagoa santa,MG,1
+laguna,SP,1
+lajeado,RS,5
+lambari,MG,1
+laranjal paulista,SP,3
+laranjeiras do sul,SP,1
+laurentino,SC,2
+lauro de freitas,BA,2
+leme,SP,1
+lencois paulista,SP,6
+limeira,SP,17
+loanda,PR,3
+londrina,PR,25
+londrina,SP,1
+lorena,SP,2
+louveira,SP,1
+luiz alves,SC,1
+luziania,GO,1
+macae,RJ,3
+macatuba,SP,1
+mage,RJ,1
+mairinque,SP,1
+mairipora,SP,2
+mamanguape,PB,1
+manaus,AM,1
+mandaguacu,PR,1
+mandaguari,PR,1
+mandirituba,PR,1
+marapoama,SP,1
+marechal candido rondon,PA,1
+marechal candido rondon,PR,1
+marechal candido rondon,SP,1
+marialva,PR,1
+marica,RJ,1
+marilia,SP,15
+maringa,PR,40
+massaranduba,SC,1
+mateus leme,MG,1
+maua,SP,13
+maua/sao paulo,SP,1
+medianeira,PR,1
+mesquita,RJ,3
+messias targino,RN,1
+miguelopolis,SP,1
+minas gerais,MG,1
+mineiros do tiete,SP,1
+mirandopolis,SP,1
+mirassol,SP,4
+mococa,SP,1
+mogi das cruses,SP,1
+mogi das cruzes,SP,15
+mogi das cruzes / sp,SP,1
+mogi guacu,SP,8
+mogi mirim,SP,3
+mombuca,SP,1
+monte alegre do sul,SP,1
+monte alto,SP,1
+monte siao,MG,1
+monteiro lobato,SP,1
+montenegro,RS,2
+montes claros,MG,3
+morrinhos,GO,3
+mucambo,CE,1
+muqui,ES,1
+muriae,MG,1
+natal,RN,2
+navegantes,SC,3
+neopolis,SE,1
+nhandeara,SP,1
+nilopolis,RJ,2
+niteroi,RJ,8
+nova friburgo,RJ,5
+nova iguacu,RJ,5
+nova lima,MG,1
+nova odessa,SP,2
+nova petropolis,RS,1
+nova trento,SC,1
+novo hamburgo,RS,6
+"novo hamburgo, rio grande do sul, brasil",RS,1
+novo horizonte,SP,1
+olimpia,SP,1
+oliveira,MG,1
+orlandia,SP,1
+orleans,SC,1
+osasco,SP,32
+osvaldo cruz,SP,3
+ourinhos,SP,1
+ouro fino,MG,1
+ouro preto,MG,1
+pacatuba,CE,1
+paincandu,PR,1
+palhoca,SC,7
+palhoca,SP,1
+palotina,PR,1
+paracambi,RJ,1
+parai,RS,1
+paraiba do sul,RJ,1
+paraiso do sul,RS,1
+parana,PR,1
+paranavai,PR,1
+parnamirim,RN,1
+passos,MG,1
+pato bragado,PR,1
+pato branco,PR,2
+patos de minas,MG,2
+paulinia,SP,4
+paulo lopes,SC,2
+pederneiras,SP,1
+pedregulho,SP,1
+pedreira,SP,9
+pedrinhas paulista,SP,1
+pedro leopoldo,MG,1
+pelotas,RS,3
+penapolis,SP,5
+petropolis,RJ,6
+picarras,SC,1
+pilar do sul,SP,1
+pinhais,PR,7
+pinhais,SP,1
+pinhais/pr,PR,1
+pinhalao,PR,1
+pinhalzinho,SC,1
+pinhalzinho,SP,1
+piracanjuba,GO,1
+piracicaba,SP,12
+pirassununga,SP,1
+pirituba,SP,1
+pitanga,PR,2
+pitangueiras,SP,1
+poa,SP,1
+pocos de caldas,MG,5
+pompeia,SP,3
+ponta grossa,PR,6
+ponte nova,MG,1
+portao,RS,1
+porto alegre,RS,27
+porto alegre,SP,1
+porto belo,SC,2
+porto ferreira,SP,9
+porto seguro,BA,1
+porto velho,RO,1
+portoferreira,SP,1
+pouso alegre,MG,1
+pradopolis,SP,2
+prados,MG,1
+praia grande,SP,10
+presidente bernardes,SP,1
+presidente epitacio,SP,1
+presidente getulio,SC,1
+presidente prudente,SP,12
+queimados,RJ,1
+recife,PE,5
+registro,SP,2
+resende,RJ,1
+ribeirao das neves,MG,2
+ribeirao pires,SP,6
+ribeirao preto,SP,52
+ribeirao preto / sao paulo,SP,1
+ribeirao pretp,SP,1
+riberao preto,SP,1
+rio bonito,RJ,1
+rio bonito,SP,1
+rio branco,AC,1
+rio claro,SP,12
+rio das pedras,SP,1
+rio de janeiro,RJ,93
+rio de janeiro,RN,1
+rio de janeiro,SP,2
+rio de janeiro / rio de janeiro,RJ,1
+rio de janeiro \rio de janeiro,RJ,1
+"rio de janeiro, rio de janeiro, brasil",RJ,1
+rio do oeste,SC,1
+rio do sul,SC,4
+rio grande,RS,1
+rio negrinho,SC,1
+rio verde,GO,1
+robeirao preto,SP,1
+rodeio,SC,2
+rolandia,PR,3
+rolante,RS,1
+ronda alta,RS,1
+s jose do rio preto,SP,1
+sabara,MG,1
+salto,SP,9
+salvador,BA,7
+sando andre,SP,1
+santa barbara d oeste,SP,1
+santa barbara d'oeste,SP,4
+santa barbara d´oeste,SP,2
+santa catarina,SC,1
+santa cecilia,SC,1
+santa cruz do sul,RS,1
+santa maria,RS,3
+santa maria da serra,SP,1
+santa rita do sapucai,MG,6
+santa rosa,RS,2
+santa rosa de viterbo,SP,1
+santa terezinha de goias,GO,1
+santa terezinha de itaipu,PR,3
+santana de parnaiba,SP,9
+santo andre,SP,45
+santo andre/sao paulo,SP,1
+santo angelo,RS,1
+santo antonio da patrulha,RS,1
+santo antonio de padua,RJ,1
+santo antonio de posse,SP,1
+santos,SP,16
+sao  jose dos pinhais,PR,1
+sao  paulo,SP,1
+sao bento,PB,1
+sao bento do sul,SC,3
+sao bernardo do campo,SP,32
+sao bernardo do capo,SP,1
+sao caetano do sul,SP,20
+sao carlos,SP,13
+sao francisco do sul,SC,1
+sao goncalo,RJ,7
+sao joao da boa vista,SP,1
+sao joao de meriti,RJ,3
+sao joao del rei,MG,2
+sao joaquim da barra,SP,1
+sao jose,SC,5
+sao jose do rio pardo,SP,2
+sao jose do rio pret,SP,1
+sao jose do rio preto,SP,33
+sao jose dos campos,SP,18
+sao jose dos pinhais,PR,9
+sao jose dos pinhais,SP,1
+sao jose dos pinhas,PR,1
+sao leopoldo,RS,2
+sao ludgero,SC,2
+sao luis,MA,1
+sao miguel d'oeste,SC,1
+sao miguel do oeste,SC,1
+sao paluo,SP,1
+sao paulo,SP,694
+sao paulo - sp,SP,3
+sao paulo / sao paulo,SP,1
+sao paulo sp,SP,1
+sao paulop,SP,1
+sao pauo,SP,1
+sao pedro,SP,2
+sao pedro da aldeia,RJ,1
+sao roque,SP,7
+sao sebastiao,SP,1
+sao sebastiao da grama/sp,SP,1
+sao vicente,SP,1
+sapiranga,RS,1
+saquarema,RJ,1
+sarandi,PR,3
+são paulo,SP,1
+sbc,SP,1
+sbc/sp,SP,1
+scao jose do rio pardo,SP,1
+serra,ES,3
+serra negra,SP,3
+serra redonda,PB,1
+serrana,SP,1
+sertanopolis,SP,1
+sete lagoas,MG,4
+sinop,MT,1
+socorro,SP,1
+soledade,RS,1
+sombrio,SC,2
+sorocaba,SP,32
+sp,SP,4
+sp / sp,SP,1
+sumare,SP,5
+suzano,SP,3
+tabao da serra,SP,1
+tabatinga,SP,3
+taboao da serra,SP,10
+taio,SC,1
+tambau,SP,1
+tanabi,SP,2
+taruma,SP,1
+tatui,SP,3
+taubate,SP,6
+teixeira soares,PR,1
+teresina,PI,1
+teresopolis,RJ,2
+terra boa,PR,1
+tiete,SP,1
+timbo,SC,2
+timoteo,MG,1
+tiradentes,MG,2
+tocantins,SP,1
+toledo,PR,8
+torres,RS,1
+tres coracoes,MG,3
+tres coroas,RS,1
+tres de maio,RS,1
+tres rios,RJ,1
+treze tilias,SC,2
+triunfo,RS,1
+tubarao,SC,5
+tupa,SP,4
+uba,MG,6
+ubatuba,SP,1
+uberaba,MG,3
+uberlandia,MG,12
+umuarama,PR,4
+uniao da vitoria,PR,1
+uruacu,GO,2
+uruguaiana,RS,1
+valinhos,SP,7
+vargem grande do sul,SP,3
+vargem grande paulista,SP,1
+varginha,MG,4
+varzea alegre,CE,1
+varzea paulista,SP,1
+vassouras,RJ,1
+venancio aires,RS,3
+vendas@creditparts.com.br,PR,1
+vera cruz,SP,1
+vespasiano,MG,1
+viamao,RS,2
+viana,ES,1
+vicente de carvalho,SP,1
+vicosa,MG,2
+videira,SC,2
+vila velha,ES,4
+vila velha,SP,1
+vitoria,ES,4
+vitoria de santo antao,PE,1
+volta redonda,RJ,1
+volta redonda,SP,1
+votorantim,SP,4
+votuporanga,SP,4
+xanxere,SC,2
+xaxim,SC,1
