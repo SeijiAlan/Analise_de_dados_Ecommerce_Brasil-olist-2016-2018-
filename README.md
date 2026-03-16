@@ -4,7 +4,7 @@ Análise Exploratória de Marketplace Brasileiro – Dataset Olist
 
 1.Introdução
 
-   Este projeto realiza uma análise exploratória detalhada de um marketplace brasileiro utilizando o dataset público disponibilizado pela Olist. O objetivo principal foi transformar uma grande quantidade de dados brutos relacionados a pedidos, pagamentos, clientes e vendedores em informações estratégicas capazes de apoiar decisões de negócio. A proposta do projeto foi simular um fluxo de trabalho real de análise de dados, combinando programação para tratamento e preparação dos dados com ferramentas de Business Intelligence para modelagem analítica e construção de visualizações interativas.
+   Este projeto realiza uma análise exploratória detalhada de um marketplace brasileiro utilizando o dataset público disponibilizado pela Olist. O objetivo principal foi transformar uma grande quantidade de dados brutos relacionados a pedidos, pagamentos, clientes e vendedores em informações estratégicas capazes de apoiar decisões de negócio. A proposta do projeto foi simular um fluxo de trabalho real de análise de dados, combinando programação para tratamento e preparação dos dados (Python/Pandas) com POWER BI para modelagem analítica e construção de visualizações interativas.
 
 2.Tecnologias Utilizadas
 
