@@ -1,6 +1,10 @@
 # Analise_de_dados_Ecommerce_Brasil-olist-2016-2018-
 
-Análise Exploratória de Marketplace Brasileiro – Dataset Olist
+Análise Exploratória do Dataset público "Brazilian e-commerce public Dataset by Olist"
+
+<p align="center">
+  <img src="images/Visao_geral def.png" width="800"/>
+</p>
 
 1.Introdução
 
