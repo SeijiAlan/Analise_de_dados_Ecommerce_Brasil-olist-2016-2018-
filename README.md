@@ -2,6 +2,8 @@
 
 Análise Exploratória do Dataset público "Brazilian e-commerce public Dataset by Olist"
 
+(Visão geral)
+
 <p align="center">
   <img src="images/Visao_geral def.png" width="800"/>
 </p>
