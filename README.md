@@ -97,7 +97,7 @@ Uma das análises mais relevantes do projeto foi o cruzamento entre o volume de 
 
 Em contraste, a categoria Relógios Presentes demonstrou características de nicho estratégico, apresentando faturamento relevante e ticket médio elevado mesmo com um número relativamente reduzido de vendedores. Já o setor de Beleza e Saúde mostrou-se altamente competitivo, com grande concentração de vendedores atuando no mesmo segmento, conforme a imagem a seguir:
 <p align="center">
-  <img src="images/demanda_concorrencia.png" width="800"/>
+  <img src="images/demanda_concorrencia.png.png" width="800"/>
 </p>
 
 
