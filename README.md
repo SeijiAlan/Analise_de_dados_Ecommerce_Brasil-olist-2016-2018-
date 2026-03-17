@@ -88,11 +88,27 @@ Faturamento = SUM(olist_order_payments_dataset[payment_value])
 
 5. Análise e Principais Observações
 
-O dashboard foi estruturado com foco na clareza visual e na geração de insights estratégicos. Entre as visualizações desenvolvidas estão gráficos que mostram a evolução do faturamento ao longo do tempo, o crescimento anual da plataforma, o ranking das categorias com maior volume de vendas e a distribuição geográfica de compradores.Uma das análises mais relevantes do projeto foi o cruzamento entre o volume de vendas e a quantidade de vendedores por categoria. Essa abordagem permitiu avaliar simultaneamente o nível de demanda e o grau de concorrência dentro do marketplace.
-A análise revelou padrões interessantes no comportamento do mercado. Categorias como Cama, Mesa e Banho apresentam grande volume de vendas, indicando forte demanda dentro da plataforma. Em contraste, a categoria Relógios Presentes demonstrou características de nicho estratégico, apresentando faturamento relevante e ticket médio elevado mesmo com um número relativamente reduzido de vendedores. Já o setor de Beleza e Saúde mostrou-se altamente competitivo, com grande concentração de vendedores atuando no mesmo segmento.A análise geográfica também revelou padrões importantes.
+O dashboard foi estruturado com foco na clareza visual e na geração de insights estratégicos. Entre as visualizações desenvolvidas estão gráficos que mostram a evolução do faturamento ao longo do tempo, o crescimento anual da plataforma, o ranking das categorias com maior volume de vendas e a distribuição geográfica de compradores.
 
-A região Sudeste concentrou a maior parte das transações do marketplace, consolidando-se como o principal polo de atividade comercial. Além disso, algumas categorias apresentaram valores médios significativamente superiores à média geral do marketplace, frequentemente ultrapassando faixas entre R$500 e R$1.000 por pedido. Em alguns casos, variações regionais sugerem que fatores logísticos e diferenças na demanda local influenciam diretamente o valor final dos produtos.
+Uma das análises mais relevantes do projeto foi o cruzamento entre o volume de vendas e a quantidade de vendedores por categoria. Essa abordagem permitiu avaliar simultaneamente o nível de demanda e o grau de concorrência dentro do marketplace.A análise revelou padrões interessantes no comportamento do mercado. Categorias como Cama, Mesa e Banho apresentam grande volume de vendas, indicando forte demanda dentro da plataforma, a 2º categoria que mais vendeu foi a de "Beleza e saúde". A imagem a seguir se trata do Top 5 categorias de produtos mais vendidos:
+<p align="center">
+  <img src="images/analise_consumidores.png" width="800"/>
+</p>
+
+Em contraste, a categoria Relógios Presentes demonstrou características de nicho estratégico, apresentando faturamento relevante e ticket médio elevado mesmo com um número relativamente reduzido de vendedores. Já o setor de Beleza e Saúde mostrou-se altamente competitivo, com grande concentração de vendedores atuando no mesmo segmento, conforme a imagem a seguir:
+<p align="center">
+  <img src="images/demanda_concorrencia.png" width="800"/>
+</p>
+
+
+A análise geográfica também revelou padrões importantes.A região Sudeste concentrou a maior parte das transações do marketplace, consolidando-se como o principal polo de atividade comercial. Além disso, algumas categorias apresentaram valores médios significativamente superiores à média geral do marketplace, frequentemente ultrapassando faixas entre R$500 e R$1.000 por pedido. Em alguns casos, variações regionais sugerem que fatores logísticos e diferenças na demanda local influenciam diretamente o valor final dos produtos.
+<p align="center">
+  <img src="images/analise_ticket_categoria.png" width="800"/>
+</p>
+
 
 6.Conclusão
 
-A análise demonstrou que o marketplace apresentou crescimento aproximado de 20% no faturamento entre 2017 e 2018. Esse crescimento foi impulsionado principalmente pelo aumento no volume de pedidos realizados na plataforma, enquanto o ticket médio geral permaneceu relativamente estável, situando-se em torno de R$161 por pedido. Outro ponto relevante identificado foi a predominância do cartão de crédito como principal método de pagamento, facilitando transações de maior valor e contribuindo para o aumento do faturamento total. De forma geral, este projeto demonstra como técnicas de tratamento de dados, modelagem analítica e visualização interativa podem transformar dados brutos em informações estratégicas. A análise permitiu identificar categorias com maior volume de vendas, nichos com menor concorrência, padrões regionais de consumo e oportunidades potenciais de mercado dentro do ambiente de e-commerce.
+A análise demonstrou que o marketplace apresentou crescimento aproximado de 20% no faturamento entre 2017 e 2018. Esse crescimento foi impulsionado principalmente pelo aumento no volume de pedidos realizados na plataforma, enquanto o ticket médio geral permaneceu relativamente estável, situando-se em torno de R$161 por pedido. Outro ponto relevante identificado foi a predominância do cartão de crédito como principal método de pagamento, facilitando transações de maior valor e contribuindo para o aumento do faturamento total. 
+
+De forma geral, este projeto demonstra como técnicas de tratamento de dados, modelagem analítica e visualização interativa podem transformar dados brutos em informações estratégicas. A análise permitiu identificar categorias com maior volume de vendas, nichos com menor concorrência, padrões regionais de consumo e oportunidades potenciais de mercado dentro do ambiente de e-commerce.
